@@ -3,7 +3,7 @@
 
 ## 环境
     -- python==3.8.10
-    -- requests==2.282
+    -- requests==2.28.2
     -- selenium==4.8.3
     -- 浏览器：Microsoft Edge 版本 109.0.1518.95 (正式版本) (64 位)
     -- 驱动：msedgedriver_109.0.1518.8.exe
